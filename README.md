@@ -1,8 +1,5 @@
 
-- 🔭 I’m currently working on - full stack development
-- 🌱 I’m currently learning - reacjs
-- 📫 How to reach me - poojapandaa03@gmail.com
-- 😄 Pronouns - Pooja
+- 🔭 I’m currently working on full stack development.
 - ⚡ Motivation -"Code is more than syntax -it's a mindset.
      Build, Break, Learn, Repeat."
 
