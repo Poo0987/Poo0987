@@ -1,16 +1,11 @@
-## Hi there 👋
 
-**Poo0987/Poo0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi 
-
-- 🔭 I’m currently working on ...full stack development
-- 🌱 I’m currently learning ...reacjs
-- 📫 How to reach me: ...poojapandaa03@gmail.com
-- 😄 Pronouns: ...Pooja
-- ⚡ Motivation..."Code is more than syntax -it's a mindset.
+- 🔭 I’m currently working on - full stack development
+- 🌱 I’m currently learning - reacjs
+- 📫 How to reach me - poojapandaa03@gmail.com
+- 😄 Pronouns - Pooja
+- ⚡ Motivation -"Code is more than syntax -it's a mindset.
      Build, Break, Learn, Repeat."
--
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cll__me____poo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojapandaa03@gmail.com) 
